@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="center"><a href="https://git.io/typing-svg" rel="nofollow"><img src="https://user-images.githubusercontent.com/961182/167298193-b79038ed-2f39-4060-a5c8-8588f8f58ba0.svg" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=2910F7&center=true&vCenter=true&lines=Hey!+Welcome+to+my+Git;I'm+a+Security+Engineer;And+a+Threat+Hunter" style="max-width: 100%;"></a></p>
 <p align="center"> <a href="https://www.buymeacoffee.com/cryingwolf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="max-width: 100%;" ></a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zezo010&label=Profile%20views&color=0e75b6&style=flat" alt="zezo010" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zezo010&label=Profile%20views&color=brightgreen&style=flat" alt="zezo010" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zezo010" alt="zezo010" /></a></p>
 
