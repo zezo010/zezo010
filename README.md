@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zezo010&label=Profile%20views&color=0e75b6&style=flat" alt="zezo010" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zezo010" alt="zezo010" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zezo010" alt="zezo010" /></a> <a href="https://www.buymeacoffee.com/cryingwolf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></p>
 
 <p align="left"> <a href="https://twitter.com/mahmoudelgindy0" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoudelgindy0?logo=twitter&style=for-the-badge" alt="mahmoudelgindy0" /></a> </p>
 
