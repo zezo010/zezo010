@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 <p align="center"><a href="https://git.io/typing-svg" rel="nofollow"><img src="https://user-images.githubusercontent.com/961182/167298193-b79038ed-2f39-4060-a5c8-8588f8f58ba0.svg" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=2910F7&center=true&vCenter=true&lines=Hey!+Welcome+to+my+Git;I'm+a+Security+Engineer;And+a+Threat+Hunter" style="max-width: 100%;"></a></p>
 <p align="center"> <a href="https://www.buymeacoffee.com/cryingwolf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="max-width: 100%;" ></a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zezo010&label=Profile%20views&color=brightgreen&style=flat" alt="zezo010" /> <a href="https://stackoverflow.com/users/1841212" rel="nofollow"><img src="https://user-images.githubusercontent.com/961182/167299401-854614da-d1e9-4ceb-9477-ecc699625369.svg" alt="stackoverflow" data-canonical-src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&amp;style=for-the-badge&amp;logo=stackoverflow&amp;logoColor=white" style="max-width: 100%;">
-</a></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zezo010&label=Profile%20views&color=brightgreen&style=flat" alt="zezo010" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zezo010" alt="zezo010" /></a></p>
 
-<p align="left"> <a href="https://twitter.com/mahmoudelgindy0" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoudelgindy0?logo=twitter&style=for-the-badge" alt="mahmoudelgindy0" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mahmoudelgindy0" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoudelgindy0?logo=twitter&style=for-the-badge" alt="mahmoudelgindy0" /></a> <a href="https://stackoverflow.com/users/1841212" rel="nofollow"><img src="https://user-images.githubusercontent.com/961182/167299401-854614da-d1e9-4ceb-9477-ecc699625369.svg" alt="stackoverflow" data-canonical-src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&amp;style=for-the-badge&amp;logo=stackoverflow&amp;logoColor=white" style="max-width: 100%;">
+</a></p>
 
 - 🔭 I’m currently working on **IoT intrusion detection system using Deep Learning.**
 
