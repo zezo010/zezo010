@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2910F7&center=true&vCenter=true&lines=Hey!+Welcome+to+my+Git)](https://git.io/typing-svg) </p>
+<p dir="auto"><a href="https://git.io/typing-svg" rel="nofollow"><img src="![readme-typing-svg herokuapp com](https://user-images.githubusercontent.com/961182/167298193-b79038ed-2f39-4060-a5c8-8588f8f58ba0.svg)" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=2910F7&center=true&vCenter=true&lines=Hey!+Welcome+to+my+Git;I'm+a+Security+Engineer;And+a+Threat+Hunter" style="max-width: 100%;"></a></p>
 <!--
 **zezo010/zezo010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
