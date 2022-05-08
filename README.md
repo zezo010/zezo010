@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Cr!ng Wolf</h1>
 <h3 align="center">A Senior Security Engineer and Threat hunter.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zezo010&label=Profile%20views&color=0e75b6&style=flat" alt="zezo010" /> &nbsp;&nbsp;&nbsp; <a href="https://www.buymeacoffee.com/cryingwolf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zezo010&label=Profile%20views&color=0e75b6&style=flat" alt="zezo010" /> <center> <a href="https://www.buymeacoffee.com/cryingwolf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></center></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zezo010" alt="zezo010" /></a></p>
 
