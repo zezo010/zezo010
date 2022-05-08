@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zezo010" alt="zezo010" /></a></p>
 
-<p align="left"> <a href="https://twitter.com/mahmoudelgindy0" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoudelgindy0?logo=twitter&style=for-the-badge" alt="mahmoudelgindy0" /></a> <a href="https://stackoverflow.com/users/1841212" rel="nofollow"><img src="https://user-images.githubusercontent.com/961182/167299401-854614da-d1e9-4ceb-9477-ecc699625369.svg" alt="stackoverflow" data-canonical-src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&amp;style=for-the-badge&amp;logo=stackoverflow&amp;logoColor=white" style="max-width: 100%;">
+<p align="left"> <a href="https://twitter.com/mahmoudelgindy0" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoudelgindy0?logo=twitter&style=for-the-badge" alt="mahmoudelgindy0" /></a> <a href="https://stackoverflow.com/users/5181623" rel="nofollow"><img src="https://user-images.githubusercontent.com/961182/167299401-854614da-d1e9-4ceb-9477-ecc699625369.svg" alt="stackoverflow" data-canonical-src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&amp;style=for-the-badge&amp;logo=stackoverflow&amp;logoColor=white" style="max-width: 100%;">
 </a></p>
 
 - 🔭 I’m currently working on **IoT intrusion detection system using Deep Learning.**
