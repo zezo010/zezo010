@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Cr!ng Wolf</h1>
+<h1 align="center">Hi 👋, I'm Cr!ng W0lf</h1>
 <h3 align="center">A Senior Security Engineer and Threat hunter.</h3>
 <p align="center"><a href="https://git.io/typing-svg" rel="nofollow"><img src="https://user-images.githubusercontent.com/961182/167298193-b79038ed-2f39-4060-a5c8-8588f8f58ba0.svg" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=2910F7&center=true&vCenter=true&lines=Hey!+Welcome+to+my+Git;I'm+a+Security+Engineer;And+a+Threat+Hunter" style="max-width: 100%;"></a></p>
 <p align="center"> <a href="https://www.buymeacoffee.com/cryingwolf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="max-width: 100%;" ></a></p>
